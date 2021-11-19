@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+  <?var url = getUrl();?>
+    <a href="<?=url?>?page=index"><input type="button" name="button" value="back to home"></a>
+    <center><img src="https://drive.google.com/uc?id=1ttyrVEyFylTO_Ug_Mqpxh2mddPAGLF8h" width="700" height="1000"></center>
+    
+    
+  </body>
+</html>
+
+
